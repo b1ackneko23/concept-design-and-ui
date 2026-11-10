@@ -1,0 +1,13 @@
+# Krita autosaves & backup copies
+*.kra~
+*~
+*.autosave
+
+# Large export video renders
+*.mp4
+*.mkv
+*.mov
+
+# OS metadata
+.DS_Store
+Thumbs.db
